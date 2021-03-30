@@ -12,7 +12,7 @@
     "email"
   ],
   "dependencies": {
-    "underscore": "1.4.x"
+    "underscore": "1.12.1"
   },
   "repository": {
     "type": "git",
